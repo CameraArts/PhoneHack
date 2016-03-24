@@ -12,4 +12,4 @@ required software:
 - SdFat library
 - SFEMP3Shield library
 
-[https://github.com/CameraArts/PhoneHack/blob/master/imgs/phone.jpg]
+![alt tag](https://github.com/CameraArts/PhoneHack/blob/master/imgs/phone.jpg)
