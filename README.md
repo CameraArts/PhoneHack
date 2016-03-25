@@ -5,11 +5,10 @@ The installation uses the existing phone wiring to determine when the handset is
 Required hardware:
 - phone
 - arduino uno
-- mp3 shield
+- mp3 shield  (https://www.sparkfun.com/products/12660)
 
 required software:
 - arduino IDE
-- SdFat library
-- SFEMP3Shield library
+- SdFat library & SFEMP3Shield library  (https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library)
 
 ![alt tag](https://github.com/CameraArts/PhoneHack/blob/master/imgs/phone.jpg)
