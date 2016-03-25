@@ -4,7 +4,7 @@ a simple sound installation using an arduino + mp3 shield with a vintage phone, 
 The installation uses the existing phone wiring to determine when the handset is lifted and an arduino with a mp3 shield hidden in it to play a sound file.
 
 Required hardware:
-- phone
+- phone (model VEF TA-68 CB)
 - arduino uno
 - mp3 shield  (https://www.sparkfun.com/products/12660)
 - micro SD card
